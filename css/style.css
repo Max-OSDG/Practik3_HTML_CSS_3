@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.team {
+    background-color: #f3f3f3;
+}
